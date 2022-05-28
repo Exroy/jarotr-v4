@@ -34,7 +34,7 @@ const defaultMenu = {
   body: '┃ ☂︎ ⎙ %cmd %islimit %isPremium',
   footer: '┗━ꕥ',
   after: `
-*One Bot V. 4.15 Alpha*
+*Jarot Bot V. 4.15 Alpha*
 *Colour Your Life*
 `,
 }
