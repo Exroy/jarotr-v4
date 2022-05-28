@@ -23,7 +23,7 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ║│
 ║╭─❉〘 𝐆𝐑𝐎𝐔𝐏 𝐁𝐎𝐓 〙❉─
 ║│➸ 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗚𝗿𝗼𝘂𝗽 𝗕𝗼𝘁
-║│   https://sl.rzkyfdlh.tech/OnEGroups1
+║│   https://chat.whatsapp.com/EQ2R3O3ckPkJZrs1MhCtQp
 ║│ ${readMore}
 ║╭─❉〘 𝐏𝐑𝐈𝐕𝐀𝐂𝐘 𝐁𝐎𝐓 〙❉─
 ║│➸ *KAMI TIDAK BERTANGGUNG*
