@@ -6,11 +6,11 @@ let handler = async (m, { conn, text }) => {
 _*Grup Official*_
 ━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━ꕥ
-┃ *_Grup Utama_*  : https://chat.whatsapp.com/GfwblXDHAqF4iA27wk8Gf4 => Ramein
-┃ *_Grup Kedua_*  : https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD
-┃ *_Grup Ketiga_* : https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB
-┃ *_Grup Keempat_* : https://chat.whatsapp.com/ESeBcdKcHFm7BnyNiSZPvi
-┃ *_Grup Kelima_* : https://chat.whatsapp.com/HhHDKEpxtyC8B1cj3KGhlS
+┃ *_Grup Utama_*  : https://chat.whatsapp.com/E5l0ofPuMxG3H8ZhMRyI7e => Ramein
+┃ *_Grup Kedua_*  : https://chat.whatsapp.com/E5l0ofPuMxG3H8ZhMRyI7e
+┃ *_Grup Ketiga_* : https://chat.whatsapp.com/E5l0ofPuMxG3H8ZhMRyI7e
+┃ *_Grup Keempat_* : https://chat.whatsapp.com/EQ2R3O3ckPkJZrs1MhCtQp
+┃ *_Grup Kelima_* : https://chat.whatsapp.com/EQ2R3O3ckPkJZrs1MhCtQp
 ┗━━━━━━━━━━━━━ꕥ
 `.trim()
 conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'One Groups')).buffer(), ext, 'One', 'SIAP BANG🗿', 'Iya', 'Owner', '.owner', m)
